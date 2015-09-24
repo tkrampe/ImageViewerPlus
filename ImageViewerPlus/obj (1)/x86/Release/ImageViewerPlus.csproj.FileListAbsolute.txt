@@ -1,9 +1,0 @@
-D:\Google Drive\ImageViewerPlus\ImageViewerPlus\bin\Release\ImageViewerPlus.exe
-D:\Google Drive\ImageViewerPlus\ImageViewerPlus\bin\Release\ImageViewerPlus.pdb
-D:\Google Drive\ImageViewerPlus\ImageViewerPlus\obj\x86\Release\ImageViewerPlus.ImageLister.resources
-D:\Google Drive\ImageViewerPlus\ImageViewerPlus\obj\x86\Release\ImageViewerPlus.Properties.Resources.resources
-D:\Google Drive\ImageViewerPlus\ImageViewerPlus\obj\x86\Release\ImageViewerPlus.Viewer.resources
-D:\Google Drive\ImageViewerPlus\ImageViewerPlus\obj\x86\Release\ImageViewerPlus.csproj.GenerateResource.Cache
-D:\Google Drive\ImageViewerPlus\ImageViewerPlus\obj\x86\Release\ImageViewerPlus.exe
-D:\Google Drive\ImageViewerPlus\ImageViewerPlus\obj\x86\Release\ImageViewerPlus.pdb
-D:\Google Drive\ImageViewerPlus\ImageViewerPlus\obj\x86\Release\ImageViewerPlus.csprojResolveAssemblyReference.cache
